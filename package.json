@@ -1,0 +1,30 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "Created a Command-Line Interface (CLI) trivia game using JavaScript. This project shows use of JavaScript concepts such as handling user input, managing program flow, working with arrays and objects, and building interactive terminal-based applications.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "trivia": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielleshokrian/trivia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielleshokrian/trivia/issues"
+  },
+  "homepage": "https://github.com/danielleshokrian/trivia#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.5.1",
+    "@inquirer/select": "^4.2.4",
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0"
+  }
+}
