@@ -18,9 +18,9 @@ Each question has a 10-second time limit, if you don’t answer within the time,
 1. Clone the repository:
 
 git clone https://github.com/your-username/trivia.git
-cd trivia
-Install dependencies:
-npm install
+\n cd trivia
+\n Install dependencies:
+\n npm install
 
 2. Start the game by running:
 
